@@ -1,1 +1,1 @@
-# brendan-leys-it-cyber-labs
+# IT & Cybersecurity Practice PortfolioThis repository documents my hands-on practice while preparing for entry-level IT, cybersecurity, SOC, and GRC roles.## Focus Areas- Linux command line- Python scripting for logs and asset data- Networking and Wireshark basics- Windows and Microsoft admin concepts- SOC-style log analysis- GRC evidence mapping## Important NoteThis is lab-based practice and coursework-aligned learning. It does not represent professional administration experience.
