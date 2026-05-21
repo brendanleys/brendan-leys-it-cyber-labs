@@ -1,7 +1,9 @@
 # Credential Migration: Plaintext File to Bitwarden Vault
 
 Date: May 20, 2026
+
 Environment: ChromeOS (Linux container / Penguin), Bitwarden web vault, capstone web services
+
 Time spent: 2.5 hours
 
 NOTE: All credential values shown in this document are visibly fake placeholders. No real tokens, keys, or URLs are recorded here. The work itself was performed against real capstone accounts; the documentation is sanitized for public posting.
